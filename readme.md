@@ -202,9 +202,9 @@ A short demo video demonstrates:
 
 ---
 <p align="center">
-  <img src="images/API.png.png" width="700"/>
-  <img src="images/Flow.png.png" width="700"/>
-  <img src="images/UI.png.png" width="700"/>
+  <img src="images/API.png" width="700"/>
+  <img src="images/Flow.png" width="700"/>
+  <img src="images/UI.png" width="700"/>
 
 </p>
 
