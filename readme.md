@@ -184,15 +184,7 @@ This approach avoids heavy builds on the server and improves deployment reliabil
 - MCP servers are not used in the current implementation.
 - Chat history is not persisted across sessions.
 
----
 
-## 🚀 Future Enhancements
-- MCP server integration
-- Advanced reranking
-- Persistent memory
-- Role-based access control
-
----
 
 ## 📽️ Demo
 A short demo video demonstrates:

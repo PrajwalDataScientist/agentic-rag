@@ -14,7 +14,7 @@ class QueryResponse(BaseModel):
 
 @app.post("/query", response_model=QueryResponse)
 def query_agent(request: QueryRequest):
-    print(f"📩 Received query: {request.question}")
+    print(f" Received query: {request.question}")
     answer = run_agent(request.question)
-    print("✅ Answer generated")
+    print("Answer generated")
     return {"answer": answer}
