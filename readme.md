@@ -188,10 +188,12 @@ This approach avoids heavy builds on the server and improves deployment reliabil
 
 ## 📽️ Demo
 A short demo video demonstrates:
+
+👉 [Click here for project explanation](https://drive.google.com/file/d/1bxQJeKwbETlG1dHSzGzPPgcTW3mmUcor/view?usp=drive_link)
+
 - Agentic workflow
 - API interaction
 - UI query execution
-
 ---
 <p align="center">
   <img src="images/API.png" width="700"/>
