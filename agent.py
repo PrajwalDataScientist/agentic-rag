@@ -116,9 +116,15 @@ Question:
     else:
         prompt = PromptTemplate(
             template="""
-Answer honestly using your general knowledge.
-If unsure, reply exactly:
-"Sorry, I am not aware of this information."
+
+    Use this tool ONLY to answer questions about:
+    - employee count
+    - employee roles
+    - employee records that exist in the dataset
+
+    Do NOT use this tool for:
+    - individual person lookup unless present in the dataset
+    - general company questions
 
 Question:
 {question}
