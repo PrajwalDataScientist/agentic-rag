@@ -1,0 +1,9 @@
+langchain>=1.0.0
+langchain-core>=0.0.1
+langchain-community>=0.0.1
+langgraph>=0.1.0
+sentence-transformers>=2.2.2
+faiss-cpu>=1.7.4
+streamlit>=1.24.1
+langchain-chroma
+pypdf
